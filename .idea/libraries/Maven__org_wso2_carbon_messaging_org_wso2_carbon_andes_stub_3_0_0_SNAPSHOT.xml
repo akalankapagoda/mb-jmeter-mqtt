@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.messaging:org.wso2.carbon.andes.stub:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/messaging/org.wso2.carbon.andes.stub/3.0.0-SNAPSHOT/org.wso2.carbon.andes.stub-3.0.0-20150326.074613-152.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/messaging/org.wso2.carbon.andes.stub/3.0.0-SNAPSHOT/org.wso2.carbon.andes.stub-3.0.0-20150326.074613-152-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/messaging/org.wso2.carbon.andes.stub/3.0.0-SNAPSHOT/org.wso2.carbon.andes.stub-3.0.0-20150326.074613-152-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

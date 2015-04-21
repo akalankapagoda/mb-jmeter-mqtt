@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.andes.wso2:andes-client:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/andes/wso2/andes-client/3.0.0-SNAPSHOT/andes-client-3.0.0-20150326.074319-96.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/andes/wso2/andes-client/3.0.0-SNAPSHOT/andes-client-3.0.0-20150326.074319-96-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/andes/wso2/andes-client/3.0.0-SNAPSHOT/andes-client-3.0.0-20150326.074319-96-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
